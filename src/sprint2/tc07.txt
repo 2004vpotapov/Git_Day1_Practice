@@ -1,6 +1,6 @@
 hellow
-Russia
+Russia + USA
 how
 are
 
-deleted 5 row
+added USA
