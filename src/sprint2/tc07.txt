@@ -1,5 +1,6 @@
 hellow
-world
+Russia
 how
 are
-deleted "you"
+
+deleted 5 row
